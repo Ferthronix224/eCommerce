@@ -31,3 +31,8 @@ C:\Users\Fernando Adolfo\Documents\Rider Projects\TecNM.Ecommerce\TecNM.Ecommerc
 C:\Users\Fernando Adolfo\Documents\Rider Projects\TecNM.Ecommerce\TecNM.Ecommerce.Api\bin\Debug\net6.0\MySqlConnector.dll
 C:\Users\Fernando Adolfo\Documents\Rider Projects\TecNM.Ecommerce\TecNM.Ecommerce.Api\bin\Debug\net6.0\TecNM.Ecommerce.Core.dll
 C:\Users\Fernando Adolfo\Documents\Rider Projects\TecNM.Ecommerce\TecNM.Ecommerce.Api\bin\Debug\net6.0\TecNM.Ecommerce.Core.pdb
+C:\Users\Fernando Adolfo\Documents\Rider Projects\TecNM.Ecommerce\TecNM.Ecommerce.Api\obj\Debug\net6.0\staticwebassets\msbuild.TecNM.Ecommerce.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Fernando Adolfo\Documents\Rider Projects\TecNM.Ecommerce\TecNM.Ecommerce.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.TecNM.Ecommerce.Api.props
+C:\Users\Fernando Adolfo\Documents\Rider Projects\TecNM.Ecommerce\TecNM.Ecommerce.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TecNM.Ecommerce.Api.props
+C:\Users\Fernando Adolfo\Documents\Rider Projects\TecNM.Ecommerce\TecNM.Ecommerce.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TecNM.Ecommerce.Api.props
+C:\Users\Fernando Adolfo\Documents\Rider Projects\TecNM.Ecommerce\TecNM.Ecommerce.Api\obj\Debug\net6.0\staticwebassets.pack.json
